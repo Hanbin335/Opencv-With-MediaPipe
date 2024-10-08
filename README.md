@@ -1,5 +1,7 @@
  OpenCV_With_MediaPipe
  ---
+ ![image](https://github.com/user-attachments/assets/096a0c94-2abd-4526-b7bb-edab92c9857b)
+
 이 프로젝트는 OpenCV 와 MediaPipe를 사용하여 실시간 얼굴 인식 시스템을 구현한 것입니다.
 
 프로젝트 소개
@@ -31,3 +33,7 @@
 ● MediaPipe : 실시간 얼굴 검출 및 특징점 인식을 위한 라이브러리로, 사용자의 얼굴을 효과적으로 분석하고 시각화
 
 ● Numpy : 배열 및 행렬 연산을 위한 라이브러리로, 이미지 데이터 처리와 마스크 생성 작업에 사용
+
+프로젝트 전체 과정
+----
+![image](https://github.com/user-attachments/assets/5c98f3af-529b-4af3-82a9-1d9467df60ab)
